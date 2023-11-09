@@ -4,6 +4,7 @@ Created on Thu Nov  9 14:06:39 2023
 
 @author: AJITH S
 """
+""""line Graph"""
 
 import pandas as pd
 import matplotlib.pyplot as plt
@@ -70,7 +71,7 @@ plt.savefig('bar_graph.png', dpi=300)
 plt.grid(axis='y')
 plt.show()
 
-
+""""pie chart"""
 
 import pandas as pd
 import matplotlib.pyplot as plt
